@@ -6,6 +6,7 @@ Right-click → Run as Administrator
 
 STEP 2: Enable WSL
 Run this command:
+
 wsl --install
 
 PHASE 2 — Install PostgreSQL (Basic Setup)
